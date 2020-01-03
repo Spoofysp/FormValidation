@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string-array name="countryList">
+        <item>select</item>
+        <item>India</item>
+        <item>China</item>
+        <item>ME</item>
+        <item>NA</item>
+    </string-array>
+
+    <string name="username">Your Name</string>
+    <string name="mobile">10 digit number</string>
+    <string name="email"> mail Id</string>
+    <string name="success"> success</string>
+
+    <string name="dialog_message">"Alert check"</string>
+    <string name="dialog_title">"Alert box trial"</string>
+</resources>
